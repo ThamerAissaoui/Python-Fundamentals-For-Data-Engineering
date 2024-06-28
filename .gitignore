@@ -150,3 +150,8 @@ ENV/
 
 # local jupyter notebooks
 *.ipynb_checkpoints/
+
+.Pipfile
+.lock
+Pipfile/
+/Pipfile
