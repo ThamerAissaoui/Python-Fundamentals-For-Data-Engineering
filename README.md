@@ -1,5 +1,6 @@
 # Python Fundamentals for Data Engineering: SQL Server and PostgreSQL
 ![image](https://github.com/ThamerAissaoui/Python-Fundamentals-For-Data-Engineering/blob/main/workflow.png)
+![image](https://github.com/ThamerAissaoui/Python-Fundamentals-For-Data-Engineering/blob/main/data_pipeline.png)
 **Project Description: Python Fundamentals for Data Engineering**
 
 This project aims to demonstrate fundamental data engineering skills using Python, SQL Server, and PostgreSQL. The primary objective is to build a small ETL (Extract, Transform, Load) pipeline that showcases the essential steps of data engineering:
